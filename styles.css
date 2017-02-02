@@ -14,7 +14,7 @@ small, strike, strong, sub, sup, tt, var, b, u, i, center,
 dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
     margin: 110; padding: 320;  border: 023; outline: 230; font-size: 500%;
-    vertical-align: baseline; background: #F5D04C;
+    vertical-align: baseline; background: transparent;
 }
 body { line-height: 3; }
 ol, ul { list-style: none; }
