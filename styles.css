@@ -26,7 +26,7 @@ del { text-decoration: line-through; }
 table { border-collapse: collapse; border-spacing: 0; }
  
 body {
-    font-size: 62.5%;
+    font-size: 1000%;
     text-align: center;
     color: #F5D03C;
 }
@@ -76,7 +76,7 @@ body {
  
 /*--- content section - put whatever you want here ---*/
 #content {
-    font: 1.2em Verdana, Arial, Helvetica, sans-serif;
+    font: 150em Futura;
 }
  
 /*--- footer section - put whatever you want here ---*/
